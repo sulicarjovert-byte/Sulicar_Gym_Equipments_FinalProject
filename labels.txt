@@ -1,0 +1,10 @@
+0 Dumbell
+1 Barbell
+2 Bench_Press
+3 Resistance_B...
+4 Treadmill
+5 Smith_Machin...
+6 Stationary_B...
+7 Kettlebell
+8 Ab_Roller
+9 Pullup_Bar
